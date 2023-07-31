@@ -98,18 +98,18 @@ export const Contact = (props) => {
             <div className="contact-item">
               <h3>Contact Info</h3>
               <p>
-                <span>
+                {/* <span>
                   <i className="fa fa-map-marker"></i> Address
                 </span>
-                {props.data ? props.data.address : "loading"}
+                {props.data ? props.data.address : "loading"} */}
               </p>
             </div>
             <div className="contact-item">
               <p>
-                <span>
+                {/* <span>
                   <i className="fa fa-phone"></i> Phone
                 </span>{" "}
-                {props.data ? props.data.phone : "loading"}
+                {props.data ? props.data.phone : "loading"} */}
               </p>
             </div>
             <div className="contact-item">
@@ -148,12 +148,7 @@ export const Contact = (props) => {
       </div>
       <div id="footer">
         <div className="container text-center">
-          <p>
-            &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
-            <a href="http://www.templatewire.com" rel="nofollow">
-              TemplateWire
-            </a>
-          </p>
+          <p>2023 JBOT Group</p>
         </div>
       </div>
     </div>

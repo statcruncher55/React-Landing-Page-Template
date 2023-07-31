@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "JBOT TOKEN",
+    "paragraph": "Easy Telegram trading bots."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "The Fastest Telegram Trading Bot. Experience seamless and lightning-fast trading on the go with our free-to-use Telegram bot. Start Trading and Explore Features.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Fast Execution",
+      "EAsy to Install",
+      "6x Faster than Uniswap",
+      "Mobile Ready"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Auto Copy Trading",
+      "Best Swap Search",
+      "TWAP Options",
+      "Gas Saver Options"
     ]
   },
   "Gallery": [
@@ -154,7 +154,7 @@
   "Contact": {
     "address": "4321 California St, San Francisco, CA 12345 ",
     "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "email": "support@j-bot.co",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
